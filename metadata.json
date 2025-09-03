@@ -1,0 +1,5 @@
+{
+  "name": "Snaps AI Photo Editor",
+  "description": "An intuitive web application that leverages the Gemini Nano Banana model to perform powerful, prompt-based edits on your photos. Upload an image, describe your desired changes, and let AI bring your vision to life.",
+  "requestFramePermissions": []
+}
